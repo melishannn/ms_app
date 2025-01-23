@@ -1,6 +1,6 @@
 # MS Takip Uygulaması (Multiple Sclerosis Tracker)
 
-![Açıklama](./assets/doctor_appointment.png)
+![Açıklama](./assets/images/doctor_appointment.png)
 
 Bu uygulama, Multiple Sclerosis (MS) hastalığına sahip bireylerin sonraki randevuların,tahlillerin ve mr randevularının planlanması ve kullanıcıya bunu bilgilendirmek için yapılmıştır.
 Kronik hastalıkların randevularının takip edilmesi hem hasta hem de doktor için fayda sağlamalıdır. Bu yüzden hasta doktorun karşısına geldiği zaman tüm tahlillerin mr'ların yapılması planlanlanması
