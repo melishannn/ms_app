@@ -40,7 +40,7 @@ her iki durumda da verimli olacaktır. Doktor randevusundan önce mr ve tahlille
 
 Eğer projem hakkında sorularınız varsa veya benimle iletişime geçmek isterseniz, aşağıdaki yollarla ulaşabilirsiniz:
 
-- E-posta: [email@example.com](mailto:melishankobal1@gmail.com)
+- E-posta: [E-mail](mailto:melishankobal1@gmail.com)
 - LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/melishan-k-11871320a/)
 
 
