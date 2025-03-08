@@ -5,6 +5,7 @@
 Bu uygulama, Multiple Sclerosis (MS) hastalığına sahip bireylerin sonraki randevuların,tahlillerin ve mr randevularının planlanması ve kullanıcıya bunu bilgilendirmek için yapılmıştır.
 Kronik hastalıkların randevularının takip edilmesi hem hasta hem de doktor için fayda sağlamalıdır. Bu yüzden hasta doktorun karşısına geldiği zaman tüm tahlillerin mr'ların yapılması planlanlanması
 her iki durumda da verimli olacaktır. Doktor randevusundan önce mr ve tahlillerin de planlanması yapılarak kullanıcıya bildirim gidilmesi sağlanmaktadır.
+Bu proje TÜBİTAK 2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEK PROGRAMINDAN KABUL ALMIŞTIR.
 
 ## Özellikler:
 - Kullanıcı kaydı ve giriş yapma.
